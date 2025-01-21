@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://github-readme-stats.vercel.app/api?wakita=zizi4n5
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wakki-0123)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wakki-0123/wakki-0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
